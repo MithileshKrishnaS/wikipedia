@@ -1,0 +1,27 @@
+body{
+  padding: 3%;
+}
+
+h1{
+  text-align: center;
+}
+
+input{
+  width: 30vw;
+  height: 3vh;
+  padding: 2px;
+  font-size: 1.3em;
+}
+
+
+
+.each{
+  background-color: rgb(232, 100, 237);
+  margin: 1%;
+  padding: 1% 0 0 2%;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
