@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wikipedia/static/css/main.ddc8367d.css",
+    "main.js": "/wikipedia/static/js/main.abe62f94.js",
+    "static/js/787.d6873487.chunk.js": "/wikipedia/static/js/787.d6873487.chunk.js",
+    "index.html": "/wikipedia/index.html",
+    "main.ddc8367d.css.map": "/wikipedia/static/css/main.ddc8367d.css.map",
+    "main.abe62f94.js.map": "/wikipedia/static/js/main.abe62f94.js.map",
+    "787.d6873487.chunk.js.map": "/wikipedia/static/js/787.d6873487.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc8367d.css",
+    "static/js/main.abe62f94.js"
+  ]
+}
